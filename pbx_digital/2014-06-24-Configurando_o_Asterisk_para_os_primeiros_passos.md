@@ -21,7 +21,7 @@ image:
 category: pbx_digital
 ---
 
-excerpt: Como instalar o Asterisk e configura-lo para usar com Arduino
+Como instalar o Asterisk e configura-lo para usar com Arduino
 
 <!--more-->
 

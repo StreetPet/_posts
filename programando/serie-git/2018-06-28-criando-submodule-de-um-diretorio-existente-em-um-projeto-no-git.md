@@ -1,5 +1,5 @@
 ---
-title: Como criar um sub-módule de um diretório existente
+title: Como criar um sub-módulo de um diretório existente
 categories: [Series, Series Trabalhando com o Git]
 tags: [Series, GIT, Programação, Gestão, Controle de Versao]
 layout: article

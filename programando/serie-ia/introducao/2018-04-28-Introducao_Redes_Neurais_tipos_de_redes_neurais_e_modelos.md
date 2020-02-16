@@ -2,7 +2,6 @@
 title: Introdução as Redes Neurais, Tipos de Redes Neurias e Modelos 
 tags: [RNN, MI, LSTM, GRU, Redes Neurais, Inteligência Artificial, Inteligência, Artificial, RNN, NN, LTSM, Formulas, Rampa Simetrica, Simetrica, Ativação Lógistica, Hiperbólica, Tangente, Tangente Hiperbólica, Função Logistica]
 categories: [Series, Redes Neurais, Introducao]
-portal: [carlosdelfino, arduinominas]
 layout: article
 share: true
 toc: true
@@ -17,10 +16,13 @@ image:
    teaser: redesneurais/rnn/lstm720x450.jpg
    feature: redesneurais/rnn/lstm720x450-2.jpg
 math: true
+portal: [carlosdelfino, arduinominas]
 ---
+
 Neste artigo quero anotar os típos e modelos de redes neurais, e até comentar um pouco sobre aplicações.
 
 <!--more-->
+
 ## Termos a Qualificar
 
 ### Antagonistic receptive fields 
